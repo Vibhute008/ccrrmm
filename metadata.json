@@ -1,0 +1,5 @@
+{
+  "name": "Raulo Enterprises CRM",
+  "description": "A comprehensive CRM system with role-based access for Boss, Sales Manager, Telecaller, and Tech Lead.",
+  "requestFramePermissions": []
+}
